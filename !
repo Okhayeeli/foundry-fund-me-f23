@@ -1,0 +1,19 @@
+[33mcommit 73f616484537268df67d73a9366d3204db0dfc49[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Osueni Elizabeth <okhayeelizabeth@gmail.com>
+Date:   Fri Apr 5 17:20:16 2024 +0100
+
+    our first commit
+
+[33mcommit eb838e9f1cceb8ac3d43c202f7f0afdc3fe4fc12[m
+Author: Osueni Elizabeth <okhayeelizabeth@gmail.com>
+Date:   Sat Mar 23 23:25:38 2024 +0100
+
+    forge install: forge-std
+    
+    v1.8.1
+
+[33mcommit 7524f47465b9697d554f564abc5c4c59ee281aaa[m
+Author: Osueni Elizabeth <okhayeelizabeth@gmail.com>
+Date:   Sat Mar 23 23:25:09 2024 +0100
+
+    chore: forge init
